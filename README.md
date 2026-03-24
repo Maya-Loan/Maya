@@ -1,7 +1,8 @@
 Requirements
 
 MBProgressHUD works on iOS 9.0+. It depends on the following Apple frameworks, which should already be included with most Xcode templates:
-11111111Foundation.framework
+MayaLoanSTtest-phl-api.fyinformation.ccMayaLoanEN
+Foundation.framework
 UIKit.framework
 CoreGraphics.framework
 You will need the latest developer tools in order to build MBProgressHUD. Old Xcode versions might work, but compatibility will not be explicitly maintained.
